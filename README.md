@@ -1,66 +1,36 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Hackathon at IIIT Lucknow - README
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Welcome to the repository for the 24-hour hackathon held at IIIT Lucknow! This repository contains all the code, documentation, and resources related to the hackathon event.
 
-## About Laravel
+## About
+This hackathon was organized at IIIT Lucknow, bringing together talented individuals passionate about technology and innovation. Participants had 24 hours to collaborate, brainstorm, and develop projects aimed at addressing real-world problems or showcasing creative solutions.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Goals
+The primary goal of the hackathon was to foster creativity, collaboration, and rapid prototyping among participants. Through this event, participants had the opportunity to:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Apply their technical skills to solve challenging problems.
+- Learn new technologies and tools.
+- Network and collaborate with like-minded individuals.
+- Present their projects to a panel of judges and receive feedback.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Repository Structure
+- `src/`: This directory contains the source code of all the projects developed during the hackathon.
+- `docs/`: Documentation related to the projects, including project proposals, design documents, and any other relevant information.
+- `resources/`: Any additional resources such as images, datasets, or libraries used during the hackathon.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## How to Use
+1. Clone the repository to your local machine: `git clone https://github.com/your-username/hackathon-iiit-lucknow.git`
+2. Navigate to the project directory: `cd hackathon-iiit-lucknow`
+3. Explore the `src/` directory to view the source code of the projects.
+4. Refer to the `docs/` directory for project documentation and additional information.
 
 ## Contributing
+Contributions to this repository are welcome! If you participated in the hackathon and would like to add your project or documentation, feel free to submit a pull request. Please ensure that your contributions adhere to the project's standards and guidelines.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Contact
+If you have any questions or need further assistance, please feel free to contact the organizers of the hackathon:
 
-## Code of Conduct
+- Organizer Name: [Organizer Name]
+- Email: [Organizer Email]
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Thank you for your interest in our hackathon repository! We hope you find it useful and inspiring. Happy hacking!
